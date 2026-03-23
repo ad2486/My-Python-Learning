@@ -16,7 +16,7 @@ elif v2 == v3 and v2 > v1:
 elif v1 == v3 and v1 > v2: 
     print ('O primeiro e o terceiro valor são iguais e maiores que o segundo valor.')
 
-#Chat deu outra solução mais simples, mas com o mesmo resultado de acordo com ele:
+#Gpt gave me another solution based on my code, with the same results but more simple
 v1 = int(input('Digite o primeiro valor: '))
 v2 = int(input('Digite o segundo valor: '))
 v3 = int(input('Digite o terceiro valor: '))
