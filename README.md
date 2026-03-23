@@ -9,3 +9,6 @@ This repository contains my journey learning Python.
 
 ## Goal:
 Become a developer and build real-world applications.
+
+## Observations:
+I have written a lot of things in portuguese in my codes while learning so don't be surprised
