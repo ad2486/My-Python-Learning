@@ -1,0 +1,1 @@
+print ('\033[0;35;40m Vai tomar no cu amor')
