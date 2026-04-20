@@ -3,9 +3,8 @@
 This repository contains my journey learning Python.
 
 ## What I'm learning:
-- Variables, conditionals and loops
-- Functions
-- Basic projects
+- All the basics, loops, lists, everything
+- I'm doing the Python introduction course by Gustavo Guanabara in the youtube channel Curso em Vídeo
 
 ## Goal:
 Become a developer and build real-world applications.
